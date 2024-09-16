@@ -1,0 +1,4 @@
+git remote add origin https://github.com/Hacker-tech-lang/appscash.git
+git add .
+git commit -m "Initial commit of appscash"
+git push -u origin master
